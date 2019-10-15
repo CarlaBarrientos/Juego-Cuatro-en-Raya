@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Media;
 
 namespace Juego4enRaya
 {
@@ -17,7 +18,13 @@ namespace Juego4enRaya
             InitializeComponent();
         }
 
-        string hola;
-
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+            SoundPlayer Player = new SoundPlayer();
+            Player.SoundLocation = "A:/PABLO/UPB/CUARTO SEMESTRE/INGENIERIA DE SOFTWARE/PROYECTOSGIT/Sonar1.wav";
+            Player.Play();
+        
+    }
     }
 }

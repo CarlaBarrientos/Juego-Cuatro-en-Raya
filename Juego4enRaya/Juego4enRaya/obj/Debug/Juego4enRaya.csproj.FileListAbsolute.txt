@@ -7,3 +7,4 @@ A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.csproj.GenerateResource.Cache
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.exe
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.pdb
+A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.Form1.resources
