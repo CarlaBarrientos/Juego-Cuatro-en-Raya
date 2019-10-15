@@ -16,5 +16,8 @@ namespace Juego4enRaya
         {
             InitializeComponent();
         }
+
+        string hola;
+
     }
 }
