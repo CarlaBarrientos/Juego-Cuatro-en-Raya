@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace Juego4enRaya
 {
-    public partial class Form1 : Form
+    public partial class Menu : Form
     {
-        public Form1()
+        public Menu()
         {
             InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Registro r = new Registro();
+            this.Hide();
+            r.Show();
         }
     }
 }
