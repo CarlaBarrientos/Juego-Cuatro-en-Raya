@@ -1,0 +1,53 @@
+mkdir temporal : crear un nuevo directorio
+cd temporal
+git init: iniciar 
+git remote add origin https://github.com/vanebustillos/Repositorio1.git : para entrar a un repositorio
+git remote -v: para ver la versión de git
+touch nuevo: crea un archivo cualquiera
+		
+
+git --version
+git status
+git add nuevo: cargar archivo editado/creado
+git commit -m "Mensaje"
+git config --global user.email "vanebustillos1@gmail.com"
+git config --global user.name "vanebustillos"
+git push origin master: subir el archivo creado/modificado
+git log: ver los commits creados
+git checkout "#commit": para cambiar a la version anterior, posterior
+git checkout master: para volver a la version actual(última)
+git tag v0.1 "#commit"
+git tag v0.3 v0.2: añadir un nuevo tag de version
+git tag -d v0.2: eliminar el tag de version
+git tag: lista los tag de version
+
+
+git clone "link del repositorio": para clonar el repositorio(Hacerlo dentro de una carpeta diferente)
+
+
+git checkout -b "nombre_rama": para crear una rama
+//hacer git add,git commit, push...
+git branch: muestra todas las ramas
+git checkout master: 
+git fetch : para traer todas las ramas del remoto al local
+
+git checkout "nombre_rama": para cambiar de rama
+git merge "nombreBranch": 
+-------// cuando sale error o no sube, vuelve al master y hace: 
+
+git checkout "rama_extra"
+git pull origin master: para actualizar todo 
+git chekout "rama_extra"
+git merge "rama_extra"
+ 
+
+
+
+-------------------
+//Si hay errorres de compilación : entrar en Eclipse a Proyect->clean y borrar todos 
+
+
+
+git add . : para añadir todo
+git push origin/Kenet :
+git revert  :buscar head (primera versión) Decirle cuantas veces va retroceder dependiendo de los heads -1

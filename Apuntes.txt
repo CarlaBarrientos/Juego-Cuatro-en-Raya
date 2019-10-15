@@ -1,0 +1,7 @@
+14-10-2019 
+ESTILO DE CODIFICACIÓN 
+-Con un buen estilo de codificación se puede enteder el código
+-El objetivo de un buen estilo de codificación es hacer el código fácil de leer y comprender, más sencillo 
+INTERFAZ DE USUARIO
+-GUI
+	1. 
