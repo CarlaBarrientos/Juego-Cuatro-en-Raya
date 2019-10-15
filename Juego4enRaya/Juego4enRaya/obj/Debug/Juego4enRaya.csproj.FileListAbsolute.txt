@@ -1,4 +1,5 @@
 D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.exe.config
+<<<<<<< HEAD
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.exe.config
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.exe
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.pdb
@@ -7,9 +8,15 @@ A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.csproj.GenerateResource.Cache
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.exe
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.pdb
-<<<<<<< HEAD
 A:\PABLO\UPB\CUARTO SEMESTRE\INGENIERIA DE SOFTWARE\PROYECTOSGIT\Juego-Cuatro-en-Raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.Form1.resources
 =======
 D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.exe
 D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.pdb
 >>>>>>> 3542a1cffacf54b7874ebc71fc671269ba46f04c
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.exe
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.pdb
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.csprojResolveAssemblyReference.cache
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.Properties.Resources.resources
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.csproj.GenerateResource.Cache
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.Form1.resources
+>>>>>>> carla
