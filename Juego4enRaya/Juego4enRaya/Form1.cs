@@ -100,5 +100,6 @@ namespace Juego4enRaya
             Player.Play();
         
     }
+
     }
 }
