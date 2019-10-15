@@ -1,1 +1,9 @@
 D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.exe.config
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.exe
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\bin\Debug\Juego4enRaya.pdb
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.csprojResolveAssemblyReference.cache
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.Properties.Resources.resources
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.csproj.GenerateResource.Cache
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.exe
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.pdb
+D:\Cuarto Semestre\Ingenieria de Software\Segundo Parcial\Juego 4 en raya\Juego4enRaya\Juego4enRaya\obj\Debug\Juego4enRaya.Form1.resources
